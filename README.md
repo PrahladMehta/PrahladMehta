@@ -1,69 +1,65 @@
-# 👋 Hi, I'm **Prahlad Singh Mehta**  
-### **Full-Stack Developer | MERN Stack | Problem Solver**
+# ![Developer](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, I'm **Prahlad Singh Mehta**  
+### **Full-Stack Developer | MERN Stack | Problem Solver**  
 
 ---
 
-![Developer](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-I am a passionate **Full-Stack Developer** with **6 months of experience** in building and deploying web applications using modern technologies. I specialize in the **MERN (MongoDB, Express, React, Node.js)** stack and have a keen interest in **problem-solving** and **optimizing code** for performance and scalability.
+
+I am a passionate **Full-Stack Developer** with **6 months of experience** in building and deploying modern web applications. I specialize in the **MERN (MongoDB, Express, React, Node.js)** stack and have a deep interest in **problem-solving**, **system design**, and **optimizing code** for performance and scalability.
 
 ---
 
-## 👨‍💻 **About Me**
+## 🚀 **About Me**
 
-- 🔭 Currently working on a **MERN project**.
-- 🌱 Continuously improving my skills in **web technologies** and exploring new frameworks and tools.
-- 🏆 Active on **LeetCode**, solving problems to improve my **Data Structures & Algorithms** knowledge.
-- 💬 Ask me about **Web Development**, **Technology**, and **Finance**.
+- 🔭 Currently working on a **MERN project** focused on delivering scalable and maintainable code.
+- 🌱 Continuously learning and exploring new technologies and frameworks to enhance my skills.
+- 🏆 Active problem solver on **LeetCode**, **GeeksforGeeks**, and other coding platforms.
+- 👨‍💻 I enjoy collaborating on open-source projects to contribute to the community.
+- 💬 Ask me about **Web Development**, **Data Structures & Algorithms**, and **Technology Trends**.
 - 📫 How to reach me: [prahladsinghmehta22@gmail.com](mailto:prahladsinghmehta22@gmail.com)
-- ⚡ Fun fact: I’m always looking for ways to **optimize code** and **improve user experience**.
+- ⚡ Fun fact: I love **optimizing code** and finding elegant solutions to complex problems.
 
 ---
 
 ## 🔧 **Tech Stack**
 
-### **Frontend**
-- **React.js**
-- **HTML5**, **CSS3**, **JavaScript** (ES6+)
-- **Material UI**, **Bootstrap**
-
-### **Backend**
-- **Node.js** & **Express.js**
-- **MongoDB** (Mongoose)
-
-### **Tools & Platforms**
-- **Git** & **GitHub**
-- **Postman** for API testing
-- **VS Code** as my favorite editor
+| **Frontend**                  | **Backend**              | **Database**       | **Tools & Platforms**  |
+|-------------------------------|--------------------------|--------------------|------------------------|
+| ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen?logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=white) |
+| ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white) | ![Express.js](https://img.shields.io/badge/-Express-lightgrey?logo=express&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&logoColor=white) | ![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white) | ![REST API](https://img.shields.io/badge/-REST%20API-lightblue) | ![Firebase](https://img.shields.io/badge/-Firebase-yellow?logo=firebase&logoColor=white) | ![VS Code](https://img.shields.io/badge/-VS%20Code-blue?logo=visual-studio-code&logoColor=white) |
 
 ---
 
 ## 🏆 **Problem-Solving Achievements**
 
-![LeetCode Badge](https://img.shields.io/badge/LeetCode-Problem%20Solver-blue)
-![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-DSA-green)
-
-- **Solved 100+ problems on LeetCode**.
-- Regular participant in coding challenges on **GeeksforGeeks** and other platforms.
-- Passionate about improving **Data Structures** and **Algorithms** skills.
+| **Platform**       | **Achievements**                     |
+|--------------------|--------------------------------------|
+| ![LeetCode](https://img.shields.io/badge/-LeetCode-orange?logo=leetcode&logoColor=white)  | Solved **400+ problems** |
+| ![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-green?logo=geeksforgeeks&logoColor=white) | Regular participant in **coding challenges** |
+| ![Hackerrank](https://img.shields.io/badge/-HackerRank-darkgreen?logo=hackerrank&logoColor=white) | Improving skills in **Data Structures** and **Algorithms** |
 
 ---
 
 ## 📊 **GitHub Stats**
 
-![Prahlad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrahladMehta&show_icons=true&theme=radical" alt="Prahlad's GitHub Stats" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrahladMehta&theme=radical" alt="Prahlad's GitHub Streak" height="180px" />
+</p>
 
 ---
 
-## 🤝 **Let's Connect**
+## 🌐 **Let's Connect**
 
-- 📧 Email: [prahladsinghmehta22@gmail.com](mailto:prahladsinghmehta22@gmail.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](#) _(Add your link here)_
-- 🌐 Portfolio: [Your Portfolio Website](#) _(Add your link here)_
+<p align="center">
+  <a href="mailto:prahladsinghmehta22@gmail.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/prahladmehta22" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
 
 ## ⭐ **Fun Fact**
 
-> I believe that **writing clean, maintainable code** is as important as writing code that works!
+> "I believe that clean, maintainable code is just as important as functional code!"
+
