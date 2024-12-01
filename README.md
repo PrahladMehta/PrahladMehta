@@ -54,7 +54,7 @@ I am a passionate **Full-Stack Developer** with **6 months of experience** in bu
 
 <p align="center">
   <a href="mailto:prahladsinghmehta22@gmail.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/prahladmehta22" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/prahladmehta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
