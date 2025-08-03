@@ -48,6 +48,10 @@ I am a passionate **Full-Stack Developer** with **6 months of experience** in bu
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrahladMehta&theme=radical" alt="Prahlad's GitHub Streak" height="180px" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PrahladMehta/PrahladMehta/refs/heads/main/snake%20(1).svg" >
+</p>
+
 ---
 
 ## 🌐 **Let's Connect**
