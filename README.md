@@ -41,12 +41,16 @@ I am a passionate **Full-Stack Developer** with **6 months of experience** in bu
 
 ---
 
-## 📊 **GitHub Stats**
+## Estatísticas do GitHub 📊
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrahladMehta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=catppuccin_mocha&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PrahladMehta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=catppuccin_mocha&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrahladMehta&show_icons=true&theme=radical" alt="Prahlad's GitHub Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrahladMehta&theme=radical" alt="Prahlad's GitHub Streak" height="180px" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PrahladMehta&theme=catppuccin_mocha&locale=pt-br"/>
+</div>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/PrahladMehta/PrahladMehta/refs/heads/main/snake%20(1).svg" >
