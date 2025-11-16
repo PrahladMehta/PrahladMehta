@@ -5,21 +5,14 @@
 
 
 
-I am a passionate **Full-Stack Developer** with **6 months of experience** in building and deploying modern web applications in industry. I specialize in the **MERN (MongoDB, Express, React, Node.js)** stack and have a deep interest in **problem-solving**, **system design**, and **optimizing code** for performance and scalability.
+# 🚀 Full-Stack Developer | React.js | Node.js | Next.js | Express.js | Tailwind CSS | AWS | MongoDB | PostgreSQL
 
----
+Hi there! I’m a passionate Full-Stack Developer who loves building fast, scalable, and user-centric web applications.  
+I work extensively with modern JavaScript frameworks and cloud-based architecture to deliver clean, maintainable, and production-ready solutions.
 
-## 🚀 **About Me**
+I enjoy turning ideas into real products — whether it's a dynamic frontend, a powerful backend API, or a complete end-to-end application.  
+Always learning, always building.
 
-- 🔭 Currently working on a **MERN project** focused on delivering scalable and maintainable code.
-- 🌱 Continuously learning and exploring new technologies and frameworks to enhance my skills.
-- 🏆 Active problem solver on **LeetCode**, **GeeksforGeeks**, and other coding platforms.
-- 👨‍💻 I enjoy collaborating on open-source projects to contribute to the community.
-- 💬 Ask me about **Web Development**, **Data Structures & Algorithms**, and **Technology Trends**.
-- 📫 How to reach me: [prahladsinghmehta22@gmail.com](mailto:prahladsinghmehta22@gmail.com)
-- ⚡ Fun fact: I love **optimizing code** and finding elegant solutions to complex problems.
-
----
 
 ## 🔧 **Tech Stack**
 
