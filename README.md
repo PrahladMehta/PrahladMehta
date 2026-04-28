@@ -55,7 +55,7 @@ Always learning, always building.
 
 <p align="center">
   <a href="mailto:prahladsinghmehta22@gmail.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/prahladmehta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <!-- <a href="https://www.linkedin.com/in/prahladmehta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" /></a> -->
 </p>
 
 ---
